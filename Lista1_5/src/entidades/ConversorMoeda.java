@@ -11,13 +11,13 @@
 package entidades;
 
 //transformar em estático
+//na main, chamar apenas o nome da classe, não precisa de construtor
+
 public class ConversorMoeda {
 	private double cotacaoDolar;
 	private double valorDolar;
 	private double valorPgto;
 	private double IOF;
-	
-	
 	
 	public ConversorMoeda() {
 	}
