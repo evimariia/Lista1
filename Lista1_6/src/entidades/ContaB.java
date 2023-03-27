@@ -46,9 +46,9 @@ public class ContaB {
 	}
 
 
-	public void setSaldo(double saldo) {
-		this.saldo = saldo;
-	}
+	//public void setSaldo(double saldo) {
+	//	this.saldo = saldo;
+	//}
 	
 	public void setDepositoInicial(double depositoInicial) {
 		this.depositoInicial = depositoInicial;
