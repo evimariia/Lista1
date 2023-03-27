@@ -10,6 +10,7 @@
 
 package entidades;
 
+//transformar em estático
 public class ConversorMoeda {
 	private double cotacaoDolar;
 	private double valorDolar;
